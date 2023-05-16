@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dr4pl"]
+	path = dr4pl
+	url = https://bitbucket.org/dittmerlab/dr4pl
+	shallow = true
+	registered = true
 [submodule "ggside"]
 	path = ggside
 	url = https://github.com/jtlandis/ggside
